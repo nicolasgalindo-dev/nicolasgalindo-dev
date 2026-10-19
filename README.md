@@ -1,12 +1,19 @@
-# Hola, soy Nicolás Galindo 👋
+# Hola, soy Nicolás Galindo Buitrago 👋
 
 Estudiante de **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en Madrid.
 Diseño y programo aplicaciones para escritorio, web y móvil, y complemento la formación con
 proyectos reales y certificaciones en análisis de datos e inteligencia artificial.
 
+Además, hago **webs a medida para negocios locales**, con panel propio para que el cliente
+gestione su contenido sin depender de nadie.
+
+- 🌐 Portfolio: **[nicolasgalindo.netlify.app](https://nicolasgalindo.netlify.app)**
 - 🔭 Ahora mismo: desarrollo y mantengo la web de **[Bar Docamar](https://docamar.com)**, un bar de Madrid fundado en 1963
 - 🌱 Interesado en: análisis de datos, inteligencia artificial y desarrollo multiplataforma
 - 📫 Contacto: [nikogalo40@gmail.com](mailto:nikogalo40@gmail.com) <!-- · [LinkedIn](https://www.linkedin.com/in/TU-USUARIO) -->
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-nicolasgalindo.netlify.app-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://nicolasgalindo.netlify.app)
+[![Email](https://img.shields.io/badge/Email-nikogalo40%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikogalo40@gmail.com)
 
 ---
 
